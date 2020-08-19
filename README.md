@@ -4,6 +4,9 @@ The task is to count the most frequent words, which extracts data from dynamic s
 # Modules and Library functions used :
 
 requests : Will allow you to send HTTP/1.1 requests and many more.
+
 beautifulsoup4 : For pulling data out of HTML and XML files.
+
 operator : Exports a set of efficient functions corresponding to the intrinsic operators.
+
 collections : Implements high-performance container datatypes.
